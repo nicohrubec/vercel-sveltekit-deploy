@@ -18,7 +18,7 @@ fails on Vercel with Node 24.x because of an incorrect ESM resolution path in `@
 
 2. Install dependencies:
    ```bash
-   yarn install
+   bun install
    ```
 
 3. Deploy to Vercel (set Node.js version to 24.x in Vercel project settings).
