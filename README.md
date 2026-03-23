@@ -42,4 +42,4 @@ Vercel build fails during `vite.config.ts` load with `ERR_MODULE_NOT_FOUND` for 
 - `@sentry/sveltekit`: 10.45.0
 - `@sveltejs/kit`: ^2.55.0
 - `@sveltejs/adapter-vercel`: ^6.3.3
-- Vite: ^6.0.0
+- Vite: ^8.0.1
