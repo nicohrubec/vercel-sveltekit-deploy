@@ -1,7 +1,7 @@
 import * as Sentry from '@sentry/sveltekit';
 
 Sentry.init({
-  dsn: import.meta.env.VITE_SENTRY_DSN,
+  dsn: import.meta.env.SENTRY_DSN,
   tracesSampleRate: 1.0,
 });
 
